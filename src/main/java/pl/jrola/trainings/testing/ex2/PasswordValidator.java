@@ -1,4 +1,4 @@
-package pl.jrola.trainings.testing.ex1;
+package pl.jrola.trainings.testing.ex2;
 
 /**
  * Created by JrQ- on 2016-01-02.

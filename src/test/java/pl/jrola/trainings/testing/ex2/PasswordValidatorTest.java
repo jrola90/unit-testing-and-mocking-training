@@ -1,4 +1,4 @@
-package pl.jrola.trainings.testing.ex1;
+package pl.jrola.trainings.testing.ex2;
 
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
