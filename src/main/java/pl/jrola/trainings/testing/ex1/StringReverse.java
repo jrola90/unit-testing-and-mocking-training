@@ -4,6 +4,12 @@ package pl.jrola.trainings.testing.ex1;
  * Created by JrQ- on 2015-12-27.
  */
 public abstract class StringReverse {
+    /**
+     * Reverses passed string argument.
+     * @param string string to be reversed
+     * @return reversed string
+     * @throws NullPointerException if passed argument is null or empty
+     */
     public static String reverse(String string) throws NullPointerException {
 
         if (string == null)
